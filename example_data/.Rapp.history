@@ -1,0 +1,2 @@
+load("/Users/aarong/Desktop/soc512/example_data/crimes.RData")
+load("/Users/aarong/Desktop/soc512/example_data/movies.RData")
