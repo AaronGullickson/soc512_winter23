@@ -7,3 +7,4 @@
 *.pdf
 *.html
 output/*
+input/ipums/usa_00116.dat.gz
