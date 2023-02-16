@@ -38,8 +38,32 @@ table(ipums$sex, ipums$gender, exclude=NULL)
 
 # Education example -------------------------------------------------------
 
+# nested ifelse approach, watch your parenthesis
+ipums$education <- factor(ifelse(ipums$educd<2 | ipums$educd==999, NA, 
+                                 ifelse(ipums$educd<62, "LHS", 
+                                        ifelse(ipums$educd<70, "HS",
+                                               ifelse(ipums$educd<101, "SC", "C")))),
+                          levels=c("LHS","HS","SC","C"))
+
+# case_when
+ipums$education <- factor(case_when(
+  ipums$educd<2 | ipums$educd==999 ~ NA_character_, 
+  ipums$educd<62 ~ "LHS",
+  ipums$educd<70 ~ "HS",
+  ipums$educd<101 ~ "SC",
+  ipums$educd<999 ~ "C"),
+  levels=c("LHS","HS","SC","C"))
+
+summary(ipums$education)
+
+table(ipums$educd, ipums$education, exclude=NULL)
 
 # Tidy dataset ------------------------------------------------------------
+
+temp <- ipums |>
+  mutate(
+    
+  )
 
 
 # Aggregate data ----------------------------------------------------------
