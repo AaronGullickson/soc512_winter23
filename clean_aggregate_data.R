@@ -83,4 +83,22 @@ ipums <- ipums |>
 
 # Aggregate data ----------------------------------------------------------
 
+ipums_agg <- ipums |>
+  group_by(statefip) |>
+  summarize(mean_agemarr=mean(agemarr, na.rm=TRUE),
+            pct_female=100*mean(gender=="Female"),
+            pct_lhs=100*mean(education=="LHS"),
+            pct_hs=100*mean(education=="HS"),
+            pct_sc=100*mean(education=="SC"),
+            pct_c=100*mean(education=="C"))
 
+ipums |>
+  group_by(statefip) |>
+  summarize(mean_agemarr=mean(agemarr, na.rm=TRUE),
+            pct_female=100*mean(gender=="Female"),
+            pct_lhs=100*mean(education=="LHS"),
+            pct_hs=100*mean(education=="HS"),
+            pct_sc=100*mean(education=="SC"),
+            pct_c=100*mean(education=="C")) |>
+  ggplot(aes(x=pct_lhs, y=mean_agemarr))+
+  geom_point()
