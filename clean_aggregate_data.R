@@ -17,6 +17,15 @@ ipums <- read_fwf("input/ipums/usa_00084.dat.gz",
 
 # Code year married --------------------------------------------------------
 
+# bracket and boolean approach
+ipums$yrmarr[ipums$yrmarr==0] <- NA
+#ipums[ipums$yrmarr==0, "yrmarr"] <- NA
+
+# ifelse approach
+ipums$yrmarr <- ifelse(ipums$yrmarr==0, NA, ipums$yrmarr)
+
+# CHECK YOURSELF BEFORE YOU WRECK YOURSELF
+summary(ipums$yrmarr)
 
 # Code gender -------------------------------------------------------------
 
