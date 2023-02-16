@@ -6,7 +6,7 @@ library(tidyverse)
 
 # Read the data -----------------------------------------------------------
 
-ipums <- read_fwf("data_examples/usa_00084.dat.gz",
+ipums <- read_fwf("input/usa_00084.dat.gz",
                   col_positions = 
                     fwf_positions(start = c(1,32,55,74,84,85,88,94),
                                   end =   c(4,41,56,83,84,87,91,96),
