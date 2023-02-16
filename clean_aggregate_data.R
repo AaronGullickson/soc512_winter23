@@ -29,6 +29,12 @@ summary(ipums$yrmarr)
 
 # Code gender -------------------------------------------------------------
 
+# simple way
+ipums$gender <- factor(ipums$sex, levels=c(2,1), 
+                       labels=c("Female","Male"))
+
+# CHECK YOURSELF BEFORE YOU WRECK YOURSELF
+table(ipums$sex, ipums$gender, exclude=NULL)
 
 # Education example -------------------------------------------------------
 
