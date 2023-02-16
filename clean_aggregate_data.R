@@ -60,11 +60,27 @@ table(ipums$educd, ipums$education, exclude=NULL)
 
 # Tidy dataset ------------------------------------------------------------
 
-temp <- ipums |>
+ipums <- ipums |>
   mutate(
-    
-  )
+    yrmarr=ifelse(yrmarr==0, NA, yrmarr),
+    gender=factor(sex, levels=c(2,1), labels=c("Female","Male")),
+    education=factor(
+      case_when(educd<2 | educd==999 ~ NA_character_, 
+                educd<62 ~ "LHS",
+                educd<70 ~ "HS",
+                educd<101 ~ "SC",
+                educd<999 ~ "C"),
+      levels=c("LHS","HS","SC","C")),
+    agemarr=year-yrmarr,
+  ) |>
+  filter(age>=18)
+
+# DO YOUR CHECKS
+
+ipums <- ipums |>
+   select(statefip, agemarr, gender, education)
 
 
 # Aggregate data ----------------------------------------------------------
+
 
