@@ -1,1 +1,657 @@
-﻿Country Name,Country Code,Series Name,Series Code,Time,Time Code,ValueAfghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,633.9478643Afghanistan,AFG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,60.37446341Afghanistan,AFG,"Population, total",SP.POP.TOTL,2014,YR2014,31627506Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4568.568827Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.83046341Albania,ALB,"Population, total",SP.POP.TOTL,2014,YR2014,2893654Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,5484.066806Algeria,DZA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.80809756Algeria,DZA,"Population, total",SP.POP.TOTL,2014,YR2014,38934334American Samoa,ASM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAAmerican Samoa,ASM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NAAmerican Samoa,ASM,"Population, total",SP.POP.TOTL,2014,YR2014,55434Andorra,ADO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAAndorra,ADO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NAAndorra,ADO,"Population, total",SP.POP.TOTL,2014,YR2014,72786Angola,AGO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,5232.7623Angola,AGO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,52.26687805Angola,AGO,"Population, total",SP.POP.TOTL,2014,YR2014,24227524Antigua and Barbuda,ATG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,13432.07921Antigua and Barbuda,ATG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.93763415Antigua and Barbuda,ATG,"Population, total",SP.POP.TOTL,2014,YR2014,90900Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,12324.93879Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.15860976Argentina,ARG,"Population, total",SP.POP.TOTL,2014,YR2014,42980026Armenia,ARM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3861.91557Armenia,ARM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.67570732Armenia,ARM,"Population, total",SP.POP.TOTL,2014,YR2014,3006154Aruba,ABW,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAAruba,ABW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.45109756Aruba,ABW,"Population, total",SP.POP.TOTL,2014,YR2014,103441Australia,AUS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,61995.8297Australia,AUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.25121951Australia,AUS,"Population, total",SP.POP.TOTL,2014,YR2014,23464086Austria,AUT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,51322.63997Austria,AUT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.33658537Austria,AUT,"Population, total",SP.POP.TOTL,2014,YR2014,8541575Azerbaijan,AZE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7886.459144Azerbaijan,AZE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,70.76321951Azerbaijan,AZE,"Population, total",SP.POP.TOTL,2014,YR2014,9535079"Bahamas, The",BHS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,22497.44971"Bahamas, The",BHS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.23365854"Bahamas, The",BHS,"Population, total",SP.POP.TOTL,2014,YR2014,383054Bahrain,BHR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,24514.99913Bahrain,BHR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.68326829Bahrain,BHR,"Population, total",SP.POP.TOTL,2014,YR2014,1361930Bangladesh,BGD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1086.800087Bangladesh,BGD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.62590244Bangladesh,BGD,"Population, total",SP.POP.TOTL,2014,YR2014,159077513Barbados,BRB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,15360.0618Barbados,BRB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.49641463Barbados,BRB,"Population, total",SP.POP.TOTL,2014,YR2014,283380Belarus,BLR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,8025.304356Belarus,BLR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,72.97560976Belarus,BLR,"Population, total",SP.POP.TOTL,2014,YR2014,9483000Belgium,BEL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,47346.79282Belgium,BEL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.58780488Belgium,BEL,"Population, total",SP.POP.TOTL,2014,YR2014,11231213Belize,BLZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4884.368562Belize,BLZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,70.07743902Belize,BLZ,"Population, total",SP.POP.TOTL,2014,YR2014,351706Benin,BEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,915.9266408Benin,BEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,59.51058537Benin,BEN,"Population, total",SP.POP.TOTL,2014,YR2014,10598482Bermuda,BMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NABermuda,BMU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.79731707Bermuda,BMU,"Population, total",SP.POP.TOTL,2014,YR2014,65139Bhutan,BTN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2560.522132Bhutan,BTN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,69.4712439Bhutan,BTN,"Population, total",SP.POP.TOTL,2014,YR2014,765008Bolivia,BOL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3124.085434Bolivia,BOL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,68.344Bolivia,BOL,"Population, total",SP.POP.TOTL,2014,YR2014,10561887Bosnia and Herzegovina,BIH,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4852.318649Bosnia and Herzegovina,BIH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.4332439Bosnia and Herzegovina,BIH,"Population, total",SP.POP.TOTL,2014,YR2014,3817554Botswana,BWA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7153.447859Botswana,BWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,64.4292439Botswana,BWA,"Population, total",SP.POP.TOTL,2014,YR2014,2219937Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,11728.79939Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.40187805Brazil,BRA,"Population, total",SP.POP.TOTL,2014,YR2014,206077898British Virgin Islands,VGB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NABritish Virgin Islands,VGB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NABritish Virgin Islands,VGB,"Population, total",SP.POP.TOTL,2014,YR2014,29585Brunei Darussalam,BRN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,41023.88988Brunei Darussalam,BRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,78.80958537Brunei Darussalam,BRN,"Population, total",SP.POP.TOTL,2014,YR2014,417394Bulgaria,BGR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7853.335191Bulgaria,BGR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.40731707Bulgaria,BGR,"Population, total",SP.POP.TOTL,2014,YR2014,7223938Burkina Faso,BFA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,696.8562068Burkina Faso,BFA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,58.58846341Burkina Faso,BFA,"Population, total",SP.POP.TOTL,2014,YR2014,17589198Burundi,BDI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,286.0023359Burundi,BDI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,56.69202439Burundi,BDI,"Population, total",SP.POP.TOTL,2014,YR2014,10816860Cabo Verde,CPV,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3661.168758Cabo Verde,CPV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,73.147Cabo Verde,CPV,"Population, total",SP.POP.TOTL,2014,YR2014,513906Cambodia,KHM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1094.576688Cambodia,KHM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,68.21229268Cambodia,KHM,"Population, total",SP.POP.TOTL,2014,YR2014,15328136Cameroon,CMR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1407.403413Cameroon,CMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,55.4927561Cameroon,CMR,"Population, total",SP.POP.TOTL,2014,YR2014,22773014Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,50185.4815Canada,CAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.95660976Canada,CAN,"Population, total",SP.POP.TOTL,2014,YR2014,35543658Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NACayman Islands,CYM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NACayman Islands,CYM,"Population, total",SP.POP.TOTL,2014,YR2014,59172Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,354.4519011Central African Republic,CAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,50.65778049Central African Republic,CAF,"Population, total",SP.POP.TOTL,2014,YR2014,4804316Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1024.668354Chad,TCD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,51.55580488Chad,TCD,"Population, total",SP.POP.TOTL,2014,YR2014,13587053Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAChannel Islands,CHI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.6064878Channel Islands,CHI,"Population, total",SP.POP.TOTL,2014,YR2014,162917Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,14566.14905Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.49619512Chile,CHL,"Population, total",SP.POP.TOTL,2014,YR2014,17762647China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7683.502038China,CHN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.78226829China,CHN,"Population, total",SP.POP.TOTL,2014,YR2014,1364270000Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7918.0789Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,73.99314634Colombia,COL,"Population, total",SP.POP.TOTL,2014,YR2014,47791393Comoros,COM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,841.2055558Comoros,COM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,63.25685366Comoros,COM,"Population, total",SP.POP.TOTL,2014,YR2014,769991"Congo, Dem. Rep.",ZAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,437.8149312"Congo, Dem. Rep.",ZAR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,58.65919512"Congo, Dem. Rep.",ZAR,"Population, total",SP.POP.TOTL,2014,YR2014,74877030"Congo, Rep.",COG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3147.071524"Congo, Rep.",COG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,62.31114634"Congo, Rep.",COG,"Population, total",SP.POP.TOTL,2014,YR2014,4504962Costa Rica,CRI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,10544.72003Costa Rica,CRI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,79.40270732Costa Rica,CRI,"Population, total",SP.POP.TOTL,2014,YR2014,4757606Cote d'Ivoire,CIV,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1544.321337Cote d'Ivoire,CIV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,51.55958537Cote d'Ivoire,CIV,"Population, total",SP.POP.TOTL,2014,YR2014,22157107Croatia,HRV,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,13480.65075Croatia,HRV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.32926829Croatia,HRV,"Population, total",SP.POP.TOTL,2014,YR2014,4238389Cuba,CUB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NACuba,CUB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,79.39082927Cuba,CUB,"Population, total",SP.POP.TOTL,2014,YR2014,11379111Curacao,CUW,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NACuracao,CUW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.82439024Curacao,CUW,"Population, total",SP.POP.TOTL,2014,YR2014,155909Cyprus,CYP,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,27340.88382Cyprus,CYP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.13156098Cyprus,CYP,"Population, total",SP.POP.TOTL,2014,YR2014,1153658Czech Republic,CZE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,19744.55861Czech Republic,CZE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,78.27560976Czech Republic,CZE,"Population, total",SP.POP.TOTL,2014,YR2014,10525347Denmark,DNK,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,61330.91263Denmark,DNK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.54878049Denmark,DNK,"Population, total",SP.POP.TOTL,2014,YR2014,5643475Djibouti,DJI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1812.425386Djibouti,DJI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,62.0155122Djibouti,DJI,"Population, total",SP.POP.TOTL,2014,YR2014,876174Dominica,DMA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7301.235865Dominica,DMA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NADominica,DMA,"Population, total",SP.POP.TOTL,2014,YR2014,72341Dominican Republic,DOM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,6268.632483Dominican Republic,DOM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,73.50002439Dominican Republic,DOM,"Population, total",SP.POP.TOTL,2014,YR2014,10405943Ecuador,ECU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,6432.295813Ecuador,ECU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.8724878Ecuador,ECU,"Population, total",SP.POP.TOTL,2014,YR2014,15902916"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3365.707421"Egypt, Arab Rep.",EGY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.12170732"Egypt, Arab Rep.",EGY,"Population, total",SP.POP.TOTL,2014,YR2014,89579670El Salvador,SLV,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4102.063852El Salvador,SLV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,72.75456098El Salvador,SLV,"Population, total",SP.POP.TOTL,2014,YR2014,6107706Equatorial Guinea,GNQ,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,26144.9405Equatorial Guinea,GNQ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,57.64704878Equatorial Guinea,GNQ,"Population, total",SP.POP.TOTL,2014,YR2014,820885Eritrea,ERI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAEritrea,ERI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,63.66302439Eritrea,ERI,"Population, total",SP.POP.TOTL,2014,YR2014,NAEstonia,EST,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,19941.4527Estonia,EST,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.23902439Estonia,EST,"Population, total",SP.POP.TOTL,2014,YR2014,1314545Ethiopia,ETH,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,573.5659603Ethiopia,ETH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,64.03502439Ethiopia,ETH,"Population, total",SP.POP.TOTL,2014,YR2014,96958732Faroe Islands,FRO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAFaroe Islands,FRO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.69268293Faroe Islands,FRO,"Population, total",SP.POP.TOTL,2014,YR2014,48221Fiji,FJI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,5042.371396Fiji,FJI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,70.08912195Fiji,FJI,"Population, total",SP.POP.TOTL,2014,YR2014,886450Finland,FIN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,49887.89697Finland,FIN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.12926829Finland,FIN,"Population, total",SP.POP.TOTL,2014,YR2014,5461512France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,42696.77883France,FRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.37317073France,FRA,"Population, total",SP.POP.TOTL,2014,YR2014,66495940French Polynesia,PYF,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAFrench Polynesia,PYF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.54168293French Polynesia,PYF,"Population, total",SP.POP.TOTL,2014,YR2014,279781Gabon,GAB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,10772.06175Gabon,GAB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,64.38339024Gabon,GAB,"Population, total",SP.POP.TOTL,2014,YR2014,1687673"Gambia, The",GMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,440.3703892"Gambia, The",GMB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,60.22843902"Gambia, The",GMB,"Population, total",SP.POP.TOTL,2014,YR2014,1928201Georgia,GEO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4429.650075Georgia,GEO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.66863415Georgia,GEO,"Population, total",SP.POP.TOTL,2014,YR2014,3727000Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,47902.65288Germany,DEU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.84390244Germany,DEU,"Population, total",SP.POP.TOTL,2014,YR2014,80982500Ghana,GHA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1441.636453Ghana,GHA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,61.31163415Ghana,GHA,"Population, total",SP.POP.TOTL,2014,YR2014,26786598Gibraltar,GIB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAGibraltar,GIB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NAGibraltar,GIB,"Population, total",SP.POP.TOTL,2014,YR2014,31997Greece,GRC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,21673.78107Greece,GRC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.28536585Greece,GRC,"Population, total",SP.POP.TOTL,2014,YR2014,10892413Greenland,GRL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,43364.88285Greenland,GRL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NAGreenland,GRL,"Population, total",SP.POP.TOTL,2014,YR2014,56295Grenada,GRD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,8570.663396Grenada,GRD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,73.36631707Grenada,GRD,"Population, total",SP.POP.TOTL,2014,YR2014,106349Guam,GUM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAGuam,GUM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,79.12602439Guam,GUM,"Population, total",SP.POP.TOTL,2014,YR2014,167543Guatemala,GTM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3666.579838Guatemala,GTM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.72241463Guatemala,GTM,"Population, total",SP.POP.TOTL,2014,YR2014,16015494Guinea,GIN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,539.615775Guinea,GIN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,58.73343902Guinea,GIN,"Population, total",SP.POP.TOTL,2014,YR2014,12275527Guinea-Bissau,GNB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,615.9396826Guinea-Bissau,GNB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,55.16004878Guinea-Bissau,GNB,"Population, total",SP.POP.TOTL,2014,YR2014,1800513Guyana,GUY,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4028.163991Guyana,GUY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,66.40641463Guyana,GUY,"Population, total",SP.POP.TOTL,2014,YR2014,763893Haiti,HTI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,831.5905217Haiti,HTI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,62.74743902Haiti,HTI,"Population, total",SP.POP.TOTL,2014,YR2014,10572029Honduras,HND,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2434.280046Honduras,HND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,73.13570732Honduras,HND,"Population, total",SP.POP.TOTL,2014,YR2014,7961680"Hong Kong SAR, China",HKG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,40215.48965"Hong Kong SAR, China",HKG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,83.9804878"Hong Kong SAR, China",HKG,"Population, total",SP.POP.TOTL,2014,YR2014,7241700Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,14117.97668Hungary,HUN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.87317073Hungary,HUN,"Population, total",SP.POP.TOTL,2014,YR2014,9866468Iceland,ISL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,52036.73181Iceland,ISL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.06097561Iceland,ISL,"Population, total",SP.POP.TOTL,2014,YR2014,327386India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1576.817669India,IND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,68.01380488India,IND,"Population, total",SP.POP.TOTL,2014,YR2014,1295291543Indonesia,IDN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3499.588735Indonesia,IDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,68.8884878Indonesia,IDN,"Population, total",SP.POP.TOTL,2014,YR2014,254454778"Iran, Islamic Rep.",IRN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,5442.874771"Iran, Islamic Rep.",IRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.38931707"Iran, Islamic Rep.",IRN,"Population, total",SP.POP.TOTL,2014,YR2014,78143644Iraq,IRQ,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,6484.529337Iraq,IRQ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,69.39968293Iraq,IRQ,"Population, total",SP.POP.TOTL,2014,YR2014,35273293Ireland,IRL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,55503.32726Ireland,IRL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.15365854Ireland,IRL,"Population, total",SP.POP.TOTL,2014,YR2014,4617225Isle of Man,IMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,85258.07616Isle of Man,IMY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NAIsle of Man,IMY,"Population, total",SP.POP.TOTL,2014,YR2014,87127Israel,ISR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,37582.84624Israel,ISR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.15365854Israel,ISR,"Population, total",SP.POP.TOTL,2014,YR2014,8215700Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,35365.10412Italy,ITA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.6902439Italy,ITA,"Population, total",SP.POP.TOTL,2014,YR2014,60789140Jamaica,JAM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,5108.357038Jamaica,JAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.6535122Jamaica,JAM,"Population, total",SP.POP.TOTL,2014,YR2014,2720554Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,38139.42236Japan,JPN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,83.58780488Japan,JPN,"Population, total",SP.POP.TOTL,2014,YR2014,127131800Jordan,JOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4830.976915Jordan,JOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.05214634Jordan,JOR,"Population, total",SP.POP.TOTL,2014,YR2014,7416083Kazakhstan,KAZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,12806.56511Kazakhstan,KAZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.62Kazakhstan,KAZ,"Population, total",SP.POP.TOTL,2014,YR2014,17289224Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1368.491132Kenya,KEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,61.57636585Kenya,KEN,"Population, total",SP.POP.TOTL,2014,YR2014,44863583Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1684.321292Kiribati,KIR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,65.95168293Kiribati,KIR,"Population, total",SP.POP.TOTL,2014,YR2014,110470"Korea, Dem. People’s Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NA"Korea, Dem. People’s Rep.",PRK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,70.07468293"Korea, Dem. People’s Rep.",PRK,"Population, total",SP.POP.TOTL,2014,YR2014,25026772"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,27989.35399"Korea, Rep.",KOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.15585366"Korea, Rep.",KOR,"Population, total",SP.POP.TOTL,2014,YR2014,50423955Kosovo,KSV,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4073.819117Kosovo,KSV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.09756098Kosovo,KSV,"Population, total",SP.POP.TOTL,2014,YR2014,1812771Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,43332.40625Kuwait,KWT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.58502439Kuwait,KWT,"Population, total",SP.POP.TOTL,2014,YR2014,3753121Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1279.769783Kyrgyz Republic,KGZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,70.40243902Kyrgyz Republic,KGZ,"Population, total",SP.POP.TOTL,2014,YR2014,5835500Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1754.896196Lao PDR,LAO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,66.11736585Lao PDR,LAO,"Population, total",SP.POP.TOTL,2014,YR2014,6689300Latvia,LVA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,15710.16771Latvia,LVA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.18780488Latvia,LVA,"Population, total",SP.POP.TOTL,2014,YR2014,1993782Lebanon,LBN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,8148.639167Lebanon,LBN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,79.37309756Lebanon,LBN,"Population, total",SP.POP.TOTL,2014,YR2014,5612096Lesotho,LSO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1203.695893Lesotho,LSO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,49.70058537Lesotho,LSO,"Population, total",SP.POP.TOTL,2014,YR2014,2109197Liberia,LBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,457.8585865Liberia,LBR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,60.83441463Liberia,LBR,"Population, total",SP.POP.TOTL,2014,YR2014,4396554Libya,LBY,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NALibya,LBY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.71612195Libya,LBY,"Population, total",SP.POP.TOTL,2014,YR2014,6258984Liechtenstein,LIE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,178713.228Liechtenstein,LIE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.26097561Liechtenstein,LIE,"Population, total",SP.POP.TOTL,2014,YR2014,37286Lithuania,LTU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,16489.72898Lithuania,LTU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,73.96585366Lithuania,LTU,"Population, total",SP.POP.TOTL,2014,YR2014,2932367Luxembourg,LUX,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,116612.8842Luxembourg,LUX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.20731707Luxembourg,LUX,"Population, total",SP.POP.TOTL,2014,YR2014,556319"Macao SAR, China",MAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,96074.83696"Macao SAR, China",MAC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.55309756"Macao SAR, China",MAC,"Population, total",SP.POP.TOTL,2014,YR2014,577914"Macedonia, FYR",MKD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,5453.281275"Macedonia, FYR",MKD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.34239024"Macedonia, FYR",MKD,"Population, total",SP.POP.TOTL,2014,YR2014,2075625Madagascar,MDG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,452.8103949Madagascar,MDG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,65.08560976Madagascar,MDG,"Population, total",SP.POP.TOTL,2014,YR2014,23571713Malawi,MWI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,362.6930683Malawi,MWI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,62.72163415Malawi,MWI,"Population, total",SP.POP.TOTL,2014,YR2014,16695253Malaysia,MYS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,11305.9001Malaysia,MYS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.71829268Malaysia,MYS,"Population, total",SP.POP.TOTL,2014,YR2014,29901997Maldives,MDV,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7716.204015Maldives,MDV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.77282927Maldives,MDV,"Population, total",SP.POP.TOTL,2014,YR2014,401000Mali,MLI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,819.6212972Mali,MLI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,57.98626829Mali,MLI,"Population, total",SP.POP.TOTL,2014,YR2014,17086022Malta,MLT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,25125.09562Malta,MLT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.74634146Malta,MLT,"Population, total",SP.POP.TOTL,2014,YR2014,427364Marshall Islands,MHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3461.645096Marshall Islands,MHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NAMarshall Islands,MHL,"Population, total",SP.POP.TOTL,2014,YR2014,52898Mauritania,MRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1370.985212Mauritania,MRT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,63.01658537Mauritania,MRT,"Population, total",SP.POP.TOTL,2014,YR2014,3969625Mauritius,MUS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,10153.93822Mauritius,MUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.19439024Mauritius,MUS,"Population, total",SP.POP.TOTL,2014,YR2014,1260934Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,10353.44798Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.72185366Mexico,MEX,"Population, total",SP.POP.TOTL,2014,YR2014,125385833"Micronesia, Fed. Sts.",FSM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3057.091231"Micronesia, Fed. Sts.",FSM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,69.10107317"Micronesia, Fed. Sts.",FSM,"Population, total",SP.POP.TOTL,2014,YR2014,104044Moldova,MDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2244.763762Moldova,MDA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.45587805Moldova,MDA,"Population, total",SP.POP.TOTL,2014,YR2014,3556397Monaco,MCO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAMonaco,MCO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NAMonaco,MCO,"Population, total",SP.POP.TOTL,2014,YR2014,37623Mongolia,MNG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4201.737722Mongolia,MNG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,69.46390244Mongolia,MNG,"Population, total",SP.POP.TOTL,2014,YR2014,2909871Montenegro,MNE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7378.042271Montenegro,MNE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.18070732Montenegro,MNE,"Population, total",SP.POP.TOTL,2014,YR2014,621810Morocco,MAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3186.60876Morocco,MAR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.01609756Morocco,MAR,"Population, total",SP.POP.TOTL,2014,YR2014,33921203Mozambique,MOZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,623.1979366Mozambique,MOZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,55.02595122Mozambique,MOZ,"Population, total",SP.POP.TOTL,2014,YR2014,27216276Myanmar,MMR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1227.137217Myanmar,MMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,65.85785366Myanmar,MMR,"Population, total",SP.POP.TOTL,2014,YR2014,53437159Namibia,NAM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,5349.447676Namibia,NAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,64.68019512Namibia,NAM,"Population, total",SP.POP.TOTL,2014,YR2014,2402858Nauru,NRU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,11499.99428Nauru,NRU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NANauru,NRU,"Population, total",SP.POP.TOTL,2014,YR2014,10176Nepal,NPL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,703.1825707Nepal,NPL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,69.60468293Nepal,NPL,"Population, total",SP.POP.TOTL,2014,YR2014,28174724Netherlands,NLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,52157.40687Netherlands,NLD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.30487805Netherlands,NLD,"Population, total",SP.POP.TOTL,2014,YR2014,16865008New Caledonia,NCL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NANew Caledonia,NCL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.57317073New Caledonia,NCL,"Population, total",SP.POP.TOTL,2014,YR2014,268000New Zealand,NZL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,44380.42658New Zealand,NZL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.40487805New Zealand,NZL,"Population, total",SP.POP.TOTL,2014,YR2014,4509700Nicaragua,NIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1960.490908Nicaragua,NIC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.81014634Nicaragua,NIC,"Population, total",SP.POP.TOTL,2014,YR2014,6013913Niger,NER,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,431.3816821Niger,NER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,61.4584878Niger,NER,"Population, total",SP.POP.TOTL,2014,YR2014,19113728Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3203.244296Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,52.75426829Nigeria,NGA,"Population, total",SP.POP.TOTL,2014,YR2014,177475986Northern Mariana Islands,MNP,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NANorthern Mariana Islands,MNP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NANorthern Mariana Islands,MNP,"Population, total",SP.POP.TOTL,2014,YR2014,54541Norway,NOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,97005.49856Norway,NOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.75121951Norway,NOR,"Population, total",SP.POP.TOTL,2014,YR2014,5137232Oman,OMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,19129.84422Oman,OMN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.08509756Oman,OMN,"Population, total",SP.POP.TOTL,2014,YR2014,4236057Pakistan,PAK,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1320.55355Pakistan,PAK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,66.18336585Pakistan,PAK,"Population, total",SP.POP.TOTL,2014,YR2014,185044286Palau,PLW,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,11892.68616Palau,PLW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NAPalau,PLW,"Population, total",SP.POP.TOTL,2014,YR2014,21097Panama,PAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,12712.43132Panama,PAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.59514634Panama,PAN,"Population, total",SP.POP.TOTL,2014,YR2014,3867535Papua New Guinea,PNG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2268.172539Papua New Guinea,PNG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,62.60692683Papua New Guinea,PNG,"Population, total",SP.POP.TOTL,2014,YR2014,7463577Paraguay,PRY,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4712.870205Paraguay,PRY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,72.92170732Paraguay,PRY,"Population, total",SP.POP.TOTL,2014,YR2014,6552518Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,6490.18119Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.52553659Peru,PER,"Population, total",SP.POP.TOTL,2014,YR2014,30973148Philippines,PHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2873.088189Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,68.26563415Philippines,PHL,"Population, total",SP.POP.TOTL,2014,YR2014,99138690Poland,POL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,14341.85993Poland,POL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.25365854Poland,POL,"Population, total",SP.POP.TOTL,2014,YR2014,38011735Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,22124.36722Portugal,PRT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.72195122Portugal,PRT,"Population, total",SP.POP.TOTL,2014,YR2014,10401062Puerto Rico,PRI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAPuerto Rico,PRI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,79.37473171Puerto Rico,PRI,"Population, total",SP.POP.TOTL,2014,YR2014,3534888Qatar,QAT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,94944.08559Qatar,QAT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,78.59680488Qatar,QAT,"Population, total",SP.POP.TOTL,2014,YR2014,2172065Romania,ROM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,10020.27733Romania,ROM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.06341463Romania,ROM,"Population, total",SP.POP.TOTL,2014,YR2014,19908979Russian Federation,RUS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,14051.59912Russian Federation,RUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,70.36585366Russian Federation,RUS,"Population, total",SP.POP.TOTL,2014,YR2014,143819569Rwanda,RWA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,697.6265013Rwanda,RWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,63.96565854Rwanda,RWA,"Population, total",SP.POP.TOTL,2014,YR2014,11341544Samoa,WSM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4172.2171Samoa,WSM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,73.51182927Samoa,WSM,"Population, total",SP.POP.TOTL,2014,YR2014,191845San Marino,SMR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NASan Marino,SMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NASan Marino,SMR,"Population, total",SP.POP.TOTL,2014,YR2014,31595Sao Tome and Principe,STP,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1870.021025Sao Tome and Principe,STP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,66.38460976Sao Tome and Principe,STP,"Population, total",SP.POP.TOTL,2014,YR2014,186342Saudi Arabia,SAU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,24406.47646Saudi Arabia,SAU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.33721951Saudi Arabia,SAU,"Population, total",SP.POP.TOTL,2014,YR2014,30886545Senegal,SEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1041.717461Senegal,SEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,66.37258537Senegal,SEN,"Population, total",SP.POP.TOTL,2014,YR2014,14672557Serbia,SRB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,6200.173221Serbia,SRB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.53414634Serbia,SRB,"Population, total",SP.POP.TOTL,2014,YR2014,7130576Seychelles,SYC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,15563.79422Seychelles,SYC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,73.22926829Seychelles,SYC,"Population, total",SP.POP.TOTL,2014,YR2014,91400Sierra Leone,SLE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,794.087082Sierra Leone,SLE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,50.87878049Sierra Leone,SLE,"Population, total",SP.POP.TOTL,2014,YR2014,6315627Singapore,SGP,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,56007.28821Singapore,SGP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.64634146Singapore,SGP,"Population, total",SP.POP.TOTL,2014,YR2014,5469724Sint Maarten (Dutch part),SXM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NASint Maarten (Dutch part),SXM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NASint Maarten (Dutch part),SXM,"Population, total",SP.POP.TOTL,2014,YR2014,37685Slovak Republic,SVK,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,18595.15111Slovak Republic,SVK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.71463415Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2014,YR2014,5418649Slovenia,SVN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,24020.67286Slovenia,SVN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,80.5195122Slovenia,SVN,"Population, total",SP.POP.TOTL,2014,YR2014,2061980Solomon Islands,SLB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2021.359214Solomon Islands,SLB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,67.93080488Solomon Islands,SLB,"Population, total",SP.POP.TOTL,2014,YR2014,572171Somalia,SOM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,536.9111436Somalia,SOM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,55.35480488Somalia,SOM,"Population, total",SP.POP.TOTL,2014,YR2014,10517569South Africa,ZAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,6498.589South Africa,ZAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,57.18212195South Africa,ZAF,"Population, total",SP.POP.TOTL,2014,YR2014,54058647South Sudan,SSD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1115.093515South Sudan,SSD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,55.68221951South Sudan,SSD,"Population, total",SP.POP.TOTL,2014,YR2014,11911184Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,29718.50022Spain,ESP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,83.07804878Spain,ESP,"Population, total",SP.POP.TOTL,2014,YR2014,46480882Sri Lanka,LKA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3852.742066Sri Lanka,LKA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.79480488Sri Lanka,LKA,"Population, total",SP.POP.TOTL,2014,YR2014,20771000St. Kitts and Nevis,KNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,15429.85922St. Kitts and Nevis,KNA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NASt. Kitts and Nevis,KNA,"Population, total",SP.POP.TOTL,2014,YR2014,54944St. Lucia,LCA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,7548.196954St. Lucia,LCA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.04685366St. Lucia,LCA,"Population, total",SP.POP.TOTL,2014,YR2014,183645St. Martin (French part),MAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NASt. Martin (French part),MAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,79.32195122St. Martin (French part),MAF,"Population, total",SP.POP.TOTL,2014,YR2014,31530St. Vincent and the Grenadines,VCT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,6656.115717St. Vincent and the Grenadines,VCT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,72.93685366St. Vincent and the Grenadines,VCT,"Population, total",SP.POP.TOTL,2014,YR2014,109360Sudan,SDN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2087.700544Sudan,SDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,63.45853659Sudan,SDN,"Population, total",SP.POP.TOTL,2014,YR2014,39350274Suriname,SUR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,9680.115914Suriname,SUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.15143902Suriname,SUR,"Population, total",SP.POP.TOTL,2014,YR2014,538248Swaziland,SWZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3539.918351Swaziland,SWZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,48.93473171Swaziland,SWZ,"Population, total",SP.POP.TOTL,2014,YR2014,1269112Sweden,SWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,59180.19898Sweden,SWE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.95609756Sweden,SWE,"Population, total",SP.POP.TOTL,2014,YR2014,9696110Switzerland,CHE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,85814.58857Switzerland,CHE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,82.84878049Switzerland,CHE,"Population, total",SP.POP.TOTL,2014,YR2014,8188649Syrian Arab Republic,SYR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NASyrian Arab Republic,SYR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,70.07102439Syrian Arab Republic,SYR,"Population, total",SP.POP.TOTL,2014,YR2014,18772481Tajikistan,TJK,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1113.366354Tajikistan,TJK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,69.59797561Tajikistan,TJK,"Population, total",SP.POP.TOTL,2014,YR2014,8295840Tanzania,TZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,957.9345343Tanzania,TZA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,64.94390244Tanzania,TZA,"Population, total",SP.POP.TOTL,2014,YR2014,51822621Thailand,THA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,5969.940116Thailand,THA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.42202439Thailand,THA,"Population, total",SP.POP.TOTL,2014,YR2014,67725979Timor-Leste,TMP,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1154.188533Timor-Leste,TMP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,68.25914634Timor-Leste,TMP,"Population, total",SP.POP.TOTL,2014,YR2014,1212107Togo,TGO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,630.0460614Togo,TGO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,59.65580488Togo,TGO,"Population, total",SP.POP.TOTL,2014,YR2014,7115163Tonga,TON,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4200.132045Tonga,TON,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,72.79219512Tonga,TON,"Population, total",SP.POP.TOTL,2014,YR2014,105586Trinidad and Tobago,TTO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,19325.3855Trinidad and Tobago,TTO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,70.44056098Trinidad and Tobago,TTO,"Population, total",SP.POP.TOTL,2014,YR2014,1354483Tunisia,TUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,4328.904197Tunisia,TUN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.14390244Tunisia,TUN,"Population, total",SP.POP.TOTL,2014,YR2014,10996600Turkey,TUR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,10303.69871Turkey,TUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.1635122Turkey,TUR,"Population, total",SP.POP.TOTL,2014,YR2014,77523788Turkmenistan,TKM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,8199.009383Turkmenistan,TKM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,65.59853659Turkmenistan,TKM,"Population, total",SP.POP.TOTL,2014,YR2014,5307188Turks and Caicos Islands,TCA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NATurks and Caicos Islands,TCA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NATurks and Caicos Islands,TCA,"Population, total",SP.POP.TOTL,2014,YR2014,33740Tuvalu,TUV,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3766.26806Tuvalu,TUV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,NATuvalu,TUV,"Population, total",SP.POP.TOTL,2014,YR2014,9893Uganda,UGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,734.7440153Uganda,UGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,58.46641463Uganda,UGA,"Population, total",SP.POP.TOTL,2014,YR2014,37782971Ukraine,UKR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3104.658296Ukraine,UKR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.18658537Ukraine,UKR,"Population, total",SP.POP.TOTL,2014,YR2014,45362900United Arab Emirates,ARE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,44238.59977United Arab Emirates,ARE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,77.36817073United Arab Emirates,ARE,"Population, total",SP.POP.TOTL,2014,YR2014,9086139United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,46412.11727United Kingdom,GBR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,81.05609756United Kingdom,GBR,"Population, total",SP.POP.TOTL,2014,YR2014,64613160United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,54539.66558United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,78.94146341United States,USA,"Population, total",SP.POP.TOTL,2014,YR2014,318907401Uruguay,URY,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,16737.9731Uruguay,URY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,76.98614634Uruguay,URY,"Population, total",SP.POP.TOTL,2014,YR2014,3419516Uzbekistan,UZB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2036.691723Uzbekistan,UZB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,68.33902439Uzbekistan,UZB,"Population, total",SP.POP.TOTL,2014,YR2014,30757700Vanuatu,VUT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,3147.963779Vanuatu,VUT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,71.91831707Vanuatu,VUT,"Population, total",SP.POP.TOTL,2014,YR2014,258883"Venezuela, RB",VEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NA"Venezuela, RB",VEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,74.23619512"Venezuela, RB",VEN,"Population, total",SP.POP.TOTL,2014,YR2014,30693827Vietnam,VNM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2052.319084Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,75.62912195Vietnam,VNM,"Population, total",SP.POP.TOTL,2014,YR2014,90728900Virgin Islands (U.S.),VIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,NAVirgin Islands (U.S.),VIR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,79.77317073Virgin Islands (U.S.),VIR,"Population, total",SP.POP.TOTL,2014,YR2014,104170West Bank and Gaza,WBG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,2960.778001West Bank and Gaza,WBG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,72.90402439West Bank and Gaza,WBG,"Population, total",SP.POP.TOTL,2014,YR2014,4294682"Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1650.974597"Yemen, Rep.",YEM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,63.81819512"Yemen, Rep.",YEM,"Population, total",SP.POP.TOTL,2014,YR2014,26183676Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,1726.992844Zambia,ZMB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,60.04704878Zambia,ZMB,"Population, total",SP.POP.TOTL,2014,YR2014,15721343Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,YR2014,931.1981847Zimbabwe,ZWE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,YR2014,57.49831707Zimbabwe,ZWE,"Population, total",SP.POP.TOTL,2014,YR2014,15245855
+Country Name,Country Code,Series Name,Series Code,2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021]
+Afghanistan,AFG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.081,63.565,62.575,..
+Afghanistan,AFG,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,578.985909020837,584.386882896106,553.036478884366,426.030015291798
+Afghanistan,AFG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.165454681763912,0.160976451493467,..,..
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.184,79.282,76.989,..
+Albania,ALB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4431.53918098494,4543.38652018643,4410.45516523171,4830.59631691622
+Albania,ALB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.78273894754715,1.69224831964856,..,..
+Algeria,DZA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.066,76.474,74.453,..
+Algeria,DZA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4188.22175743517,4153.00481594021,3873.5100150745,3943.17198337712
+Algeria,DZA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.9482902580223,4.01003452306043,..,..
+American Samoa,ASM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+American Samoa,ASM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,13049.3301536176,13288.3565565116,14303.6270325756,14396.3685581274
+American Samoa,ASM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Andorra,AND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Andorra,AND,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,39319.9364136952,39413.6344732996,34394.2775534697,36839.8762185682
+Andorra,AND,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.53220121227978,6.54938894201171,..,..
+Angola,AGO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.144,62.448,62.261,..
+Angola,AGO,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2677.17781589774,2569.69134652945,2347.78703247628,2299.6405718262
+Angola,AGO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.766143022103473,0.77920257513549,..,..
+Antigua and Barbuda,ATG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.511,78.691,78.841,..
+Antigua and Barbuda,ATG,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,16967.0862296598,17697.2311549703,14040.3675461654,14692.4156212259
+Antigua and Barbuda,ATG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.56610558644115,5.64499474501464,..,..
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.999,77.284,75.892,..
+Argentina,ARG,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,13105.397163317,12716.2242038544,11341.2683655863,12402.4907912317
+Argentina,ARG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.97577197057929,3.74065029063396,..,..
+Armenia,ARM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.064,75.439,72.173,..
+Armenia,ARM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4215.89945615491,4561.96786576599,4256.13129015707,4522.31910742549
+Armenia,ARM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.01300380642694,2.1874763175712,..,..
+Aruba,ABW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.072,76.248,75.723,..
+Aruba,ABW,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,31705.2790531117,31762.7340256358,25823.634823564,30271.8334746536
+Aruba,ABW,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Australia,AUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.7487804878049,82.9,83.2,..
+Australia,AUS,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,58481.0344237649,58870.0216937531,58117.4520268812,59341.2377401658
+Australia,AUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.5034862846486,15.2536183403361,..,..
+Austria,AUT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.6926829268293,81.8951219512195,81.1926829268293,..
+Austria,AUT,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,46154.6250956541,46647.0809634335,43455.7000665738,45238.3907144733
+Austria,AUT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.13306391934265,7.2939842524557,..,..
+Azerbaijan,AZE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.76,73.102,66.868,..
+Azerbaijan,AZE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,5262.18380792188,5348.26526707105,5083.3816401988,5344.42134817085
+Azerbaijan,AZE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.2928323542098,3.54239782750878,..,..
+"Bahamas, The",BHS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.806,71.205,72.677,..
+"Bahamas, The",BHS,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,30705.6019729505,31082.8060960243,23566.5753253459,26705.5660079272
+"Bahamas, The",BHS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.96680306418984,7.02002416017844,..,..
+Bahrain,BHR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.857,80.019,79.174,..
+Bahrain,BHR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,23023.1197800625,23414.2190743533,22510.4040791872,23234.7120724362
+Bahrain,BHR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,20.7148328330727,22.2595806695899,..,..
+Bangladesh,BGD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.567,72.806,71.968,..
+Bangladesh,BGD,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1460.30501692162,1557.96529123717,1593.3483212523,1684.43438995348
+Bangladesh,BGD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.50982391901986,0.548224196802713,..,..
+Barbados,BRB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.067,77.257,77.393,..
+Barbados,BRB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,17220.9310014747,17168.1456868491,14855.6898587069,14800.8381460905
+Barbados,BRB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.43351166133956,4.46141766007567,..,..
+Belarus,BLR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.1756097560976,74.2268292682927,74.2268292682927,..
+Belarus,BLR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6165.90933024502,6264.86096486176,6247.43190947199,6418.23763437028
+Belarus,BLR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.24550731507705,6.12223776544422,..,..
+Belgium,BEL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.5951219512195,81.9951219512195,80.7951219512195,..
+Belgium,BEL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,42382.3182763247,43098.4847198889,40612.3924560653,42901.4320595797
+Belgium,BEL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.19633858929077,8.09558395403513,..,..
+Belize,BLZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.703,73.931,72.854,..
+Belize,BLZ,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,5756.8522488581,5907.34887238917,5040.12252132539,5733.35261087401
+Belize,BLZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.64892975358087,1.64484248241402,..,..
+Benin,BEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.14,60.454,60.088,..
+Benin,BEN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1111.22724012241,1153.72620998083,1164.70594618082,1214.07758989944
+Benin,BEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.621404996371979,0.593957402249655,..,..
+Bermuda,BMU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.6517073170732,81.8665853658537,82.0560975609756,..
+Bermuda,BMU,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,106697.737486296,107036.239271085,99745.2416064214,105187.788086233
+Bermuda,BMU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Bhutan,BTN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.129,71.391,71.609,..
+Bhutan,BTN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3065.85564992774,3219.64367070669,2878.43770450338,2976.90648315463
+Bhutan,BTN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.37777911485729,1.36815120067167,..,..
+Bolivia,BOL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.748,67.841,64.467,..
+Bolivia,BOL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3219.20088567555,3242.94884340563,2920.19744316688,3061.7386096362
+Bolivia,BOL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.00139481991421,1.89686699834282,..,..
+Bosnia and Herzegovina,BIH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.093,77.241,76.225,..
+Bosnia and Herzegovina,BIH,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,5263.84826619226,5476.35576227301,5373.16875734591,5862.45830047874
+Bosnia and Herzegovina,BIH,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.64680674805859,6.26950657013477,..,..
+Botswana,BWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.422,65.464,65.647,..
+Botswana,BWA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6418.57188730836,6485.45726726932,5810.94830990799,6366.59221292196
+Botswana,BWA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.98195851560451,2.90034572120997,..,..
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.109,75.338,74.009,..
+Brazil,BRA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,8553.87618653936,8592.22153753537,8204.20272600881,8537.93922013226
+Brazil,BRA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.06498086163178,2.05068507848387,..,..
+British Virgin Islands,VGB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.831,75.863,75.849,..
+British Virgin Islands,VGB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+British Virgin Islands,VGB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Brunei Darussalam,BRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.712,74.748,74.795,..
+Brunei Darussalam,BRN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,29438.1006980189,30313.6563877064,30402.0870578242,29673.4033162602
+Brunei Darussalam,BRN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,17.3623103429011,15.9571548577283,..,..
+Bulgaria,BGR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.9634146341464,75.1121951219512,73.6073170731707,..
+Bulgaria,BGR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,7859.6921556743,8234.83966944834,7956.46908962689,8633.98229147066
+Bulgaria,BGR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.82203361005485,5.61085727989368,..,..
+Burkina Faso,BFA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.047,60.039,59.731,..
+Burkina Faso,BFA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,696.04456847617,716.012194964082,710.471352680813,739.672722391506
+Burkina Faso,BFA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.229003261422908,0.238644814374665,..,..
+Burundi,BDI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.688,62.351,61.566,..
+Burundi,BDI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,274.131914225904,270.137283068899,263.360994217959,261.019379649372
+Burundi,BDI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.060034078267717,0.0606324085103501,..,..
+Cabo Verde,CPV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.733,76.004,74.808,..
+Cabo Verde,CPV,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3172.96045914695,3318.93278143055,2801.04915145259,2968.86076992708
+Cabo Verde,CPV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.06792345668453,1.12645785515162,..,..
+Cambodia,KHM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.561,70.692,70.416,..
+Cambodia,KHM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1384.96802283394,1465.96953538762,1404.19865501722,1429.93702682619
+Cambodia,KHM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.909814875991614,0.99828812132025,..,..
+Cameroon,CMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.18,61.584,60.833,..
+Cameroon,CMR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1445.26776644065,1454.56406402385,1419.32820350189,1432.8626845743
+Cameroon,CMR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.382426004161859,0.36575423097444,..,..
+Canada,CAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.0487804878049,82.0487804878049,81.7487804878049,..
+Canada,CAN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,44917.4837282326,45109.2444855151,42258.6910170917,43936.3081048252
+Canada,CAN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.6505790424074,15.4306128276297,..,..
+Cayman Islands,CYM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Cayman Islands,CYM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,80600.6107453471,82139.8961138837,76116.4252337353,76577.822242188
+Cayman Islands,CYM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Central African Republic,CAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,54.369,55.025,54.604,..
+Central African Republic,CAF,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,378.263076526306,381.414045064669,375.216922803966,370.675749066981
+Central African Republic,CAF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0451442464978517,0.0460712358524027,..,..
+Chad,TCD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,52.825,53.259,52.777,..
+Chad,TCD,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,653.349759283291,652.703213763469,622.278504175497,595.663784578024
+Chad,TCD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.140346743425041,0.139518738482728,..,..
+Channel Islands,CHI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.375,81.39,81.264,..
+Channel Islands,CHI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+Channel Islands,CHI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.133,80.326,79.377,..
+Chile,CHL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,13906.7702234013,13765.118249803,12767.3039138968,14115.9601368334
+Chile,CHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.63119173167597,4.79897448626273,..,..
+China,CHN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.744,77.968,78.077,..
+China,CHN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,9619.19248413627,10155.4929447833,10358.2594478784,11188.3025403134
+China,CHN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.48733189390915,7.60593696057347,..,..
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.748,76.752,74.769,..
+Colombia,COL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6320.76208436838,6403.87709573135,5865.65409477439,6418.09775120445
+Colombia,COL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.59486288811298,1.61474774997391,..,..
+Comoros,COM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.912,64.068,64.166,..
+Comoros,COM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1383.37778922977,1381.62215537536,1352.95541062954,1355.5387302206
+Comoros,COM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.386442081893423,0.404558352293774,..,..
+"Congo, Dem. Rep.",COD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.942,60.276,59.739,..
+"Congo, Dem. Rep.",COD,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,489.382354011428,494.819226947003,487.43311264638,501.239067350859
+"Congo, Dem. Rep.",COD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0358260953677957,0.035703604452862,..,..
+"Congo, Rep.",COG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.053,62.747,63.785,..
+"Congo, Rep.",COG,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1774.61390099667,1731.79987996869,1586.3182966189,1515.89386729403
+"Congo, Rep.",COG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.19278180824224,1.30323966861845,..,..
+Costa Rica,CRI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.484,79.427,79.277,..
+Costa Rica,CRI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,12470.95672073,12662.4221428116,12058.0029125188,12894.2960011178
+Costa Rica,CRI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.6604724402357,1.62060141840353,..,..
+Cote d'Ivoire,CIV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.849,59.319,59.032,..
+Cote d'Ivoire,CIV,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2210.32581478907,2289.37652106313,2276.83952295318,2377.97343963816
+Cote d'Ivoire,CIV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.399702062320862,0.414187926192633,..,..
+Croatia,HRV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.0707317073171,78.4243902439025,77.7243902439024,..
+Croatia,HRV,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,13531.2435029842,14071.9114694775,12920.3443843408,15166.41328825
+Croatia,HRV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.01923466854666,4.06370783264011,..,..
+Cuba,CUB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.496,77.611,77.567,..
+Cuba,CUB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,8048.01660977285,8042.94852386634,7172.51925662898,7291.06788516411
+Cuba,CUB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.35782342651453,2.28953729585692,..,..
+Curacao,CUW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Curacao,CUW,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,18198.6642740608,17796.699906511,14748.8955145068,15633.2333617387
+Curacao,CUW,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Cyprus,CYP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.382,81.397,81.391,..
+Cyprus,CYP,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,27241.0078125,28359.919921875,26814.21484375,28329.203125
+Cyprus,CYP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.90729954297613,5.85106560779507,..,..
+Czechia,CZE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.0292682926829,79.2292682926829,78.2268292682927,..
+Czechia,CZE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,19689.5827032979,20206.4256384905,19048.0868543829,20083.8096038696
+Czechia,CZE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,9.49206819894537,9.02278615795801,..,..
+Denmark,DNK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.9536585365854,81.4512195121951,81.5512195121951,..
+Denmark,DNK,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,56563.4884729669,57203.0277943447,55898.7900294456,58359.5839945633
+Denmark,DNK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.71834355284233,5.10798850907958,..,..
+Djibouti,DJI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.038,63.085,62.694,..
+Djibouti,DJI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2714.35164845975,2820.06286565541,2811.64953129263,2905.90680749816
+Djibouti,DJI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.378358648011502,0.391063625017438,..,..
+Dominica,DMA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Dominica,DMA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,7586.64614100055,7936.3048182003,6566.36420769493,6964.78328182289
+Dominica,DMA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.4003501939785,2.38001906518647,..,..
+Dominican Republic,DOM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.232,73.577,72.889,..
+Dominican Republic,DOM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,7894.95501697125,8205.14240945814,7571.78265216424,8410.60565617264
+Dominican Republic,DOM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.35102192970717,2.50232446393338,..,..
+Ecuador,ECU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.094,77.297,72.153,..
+Ecuador,ECU,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,5976.24534526558,5863.91056629908,5331.97661096757,5492.48927051545
+Ecuador,ECU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.35900171263576,2.26537072831623,..,..
+"Egypt, Arab Rep.",EGY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.367,71.358,70.99,..
+"Egypt, Arab Rep.",EGY,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3634.83426919152,3768.62751137457,3836.09115358719,3898.51658195479
+"Egypt, Arab Rep.",EGY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.38970672389112,2.36104083450537,..,..
+El Salvador,SLV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.555,72.559,71.061,..
+El Salvador,SLV,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4009.71655494156,4104.91788888425,3761.75413246649,4134.32168932576
+El Salvador,SLV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.08502690624245,1.2419953308516,..,..
+Equatorial Guinea,GNQ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.191,61.644,60.708,..
+Equatorial Guinea,GNQ,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,7079.65050227129,6472.07086074269,6030.51757008333,5833.1029320687
+Equatorial Guinea,GNQ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.28069925746085,3.44487644137984,..,..
+Eritrea,ERI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.067,67.3,67.133,..
+Eritrea,ERI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+Eritrea,ERI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.246707621245722,0.251513509771479,..,..
+Estonia,EST,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.2439024390244,78.6463414634147,78.3463414634146,..
+Estonia,EST,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,19611.6109936281,20269.575137379,20118.1050729983,21707.2407508041
+Estonia,EST,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,11.5887036573437,7.67202927819305,..,..
+Eswatini,SWZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.411,60.549,59.692,..
+Eswatini,SWZ,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3695.94994187242,3766.06299935158,3672.65334987562,3923.57733292099
+Eswatini,SWZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.784193440890813,0.820784292361942,..,..
+Ethiopia,ETH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.412,65.838,65.371,..
+Ethiopia,ETH,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,744.367594372728,785.485050212771,811.255620648886,834.957958630514
+Ethiopia,ETH,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.155134409760249,0.160882448704671,..,..
+Faroe Islands,FRO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.5439024390244,82.7926829268293,83.0926829268293,..
+Faroe Islands,FRO,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+Faroe Islands,FRO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Fiji,FJI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.81,67.893,67.924,..
+Fiji,FJI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,5708.99261980924,5679.0507253517,4703.57670791071,4442.93260413278
+Fiji,FJI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.77367474421176,1.7747001739115,..,..
+Finland,FIN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.7341463414634,81.9829268292683,82.1317073170732,..
+Finland,FIN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,45627.9198947233,46135.8814242631,45053.758678116,46297.2418204236
+Finland,FIN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.08263979060102,7.37285476082008,..,..
+France,FRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.6756097560976,82.8268292682927,82.1756097560976,..
+France,FRA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,38259.6977698474,38832.0242014303,35712.0751986828,38045.9021613006
+France,FRA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.5720300891405,4.45954746474334,..,..
+French Polynesia,PYF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.783,82.996,82.217,..
+French Polynesia,PYF,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,19419.5383697498,19749.4312702373,17644.7941932285,17701.6945524745
+French Polynesia,PYF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Gabon,GAB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.306,66.603,66.531,..
+Gabon,GAB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6786.89032695312,6893.32308216157,6619.68858056614,6577.04415323017
+Gabon,GAB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.33575358417704,2.34083962573318,..,..
+"Gambia, The",GMB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.04,63.755,62.612,..
+"Gambia, The",GMB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,645.938308722218,668.635248433711,655.576242590987,666.471212255386
+"Gambia, The",GMB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.224956608701865,0.231178569630668,..,..
+Georgia,GEO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.341,73.47,72.765,..
+Georgia,GEO,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4539.08752230476,4773.42330884899,4447.664250894,4931.82372520107
+Georgia,GEO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.56805953573245,2.71762422558518,..,..
+Germany,DEU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.8926829268293,81.2926829268293,80.9414634146342,..
+Germany,DEU,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,42928.7412368012,43284.6024553493,41650.4227126493,42726.485322007
+Germany,DEU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.53619609072659,7.91162101567715,..,..
+Ghana,GHA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.122,64.74,64.114,..
+Ghana,GHA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1899.82990284843,1981.63615575459,1951.08652852438,2014.73647352693
+Ghana,GHA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.605105682942437,0.635740643066456,..,..
+Gibraltar,GIB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.154,82.363,82.198,..
+Gibraltar,GIB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+Gibraltar,GIB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Greece,GRC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.7878048780488,81.6390243902439,81.0878048780488,..
+Greece,GRC,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,18647.4957207515,19018.9021220823,17343.6099878902,18907.8491448015
+Greece,GRC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.05801840018985,5.59618906985928,..,..
+Greenland,GRL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.8865853658537,72.0475609756098,71.4046341463415,..
+Greenland,GRL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,47013.0349493846,47908.106718779,47957.7936697606,..
+Greenland,GRL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Grenada,GRD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.808,74.863,74.924,..
+Grenada,GRD,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,9252.67605907521,9247.90865964199,7915.21109400898,8223.29847749332
+Grenada,GRD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.62643832669153,2.68896070135444,..,..
+Guam,GUM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.439,77.717,76.612,..
+Guam,GUM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,34472.95939787,35378.9557673086,31236.0797479713,31325.3962959769
+Guam,GUM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Guatemala,GTM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.726,73.129,71.797,..
+Guatemala,GTM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4163.48446077382,4263.07805308999,4124.6999812741,4388.43680329451
+Guatemala,GTM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.12069833790549,1.16297092439764,..,..
+Guinea,GIN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.349,59.72,59.327,..
+Guinea,GIN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,910.652647044683,937.703136755322,959.431978411073,972.779035314863
+Guinea,GIN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.298689018057065,0.306735630750854,..,..
+Guinea-Bissau,GNB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.502,60.882,59.999,..
+Guinea-Bissau,GNB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,620.771028276283,633.725743772769,604.595146033044,613.898109896942
+Guinea-Bissau,GNB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.166237648593054,0.167473846479787,..,..
+Guyana,GUY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.896,69.124,68.486,..
+Guyana,GUY,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6127.70538051386,6348.69808969246,9126.80604679143,10857.3381487023
+Guyana,GUY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.29720401440243,3.56806159680473,..,..
+Haiti,HTI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.019,64.255,64.052,..
+Haiti,HTI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1429.23135334836,1386.51851658061,1322.81405814194,1283.05286964319
+Haiti,HTI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.298753558536586,0.297479358179563,..,..
+Honduras,HND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.814,72.881,71.462,..
+Honduras,HND,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2423.27329902983,2446.10530994908,2190.97187254256,2428.02918076814
+Honduras,HND,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.02625897371398,1.02622509805408,..,..
+"Hong Kong SAR, China",HKG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.9341463414634,85.0780487804878,85.3878048780488,..
+"Hong Kong SAR, China",HKG,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,45280.2113679239,44192.3802322275,41448.4907994199,44481.3397599363
+"Hong Kong SAR, China",HKG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Hungary,HUN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.0658536585366,76.3195121951219,75.6170731707317,..
+Hungary,HUN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,14377.421963001,15082.6714945249,14427.8188846629,15518.7686622368
+Hungary,HUN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.74652935890747,4.74663102989868,..,..
+Iceland,ISL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.8609756097561,83.1634146341463,83.0658536585366,..
+Iceland,ISL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,57697.5982793803,57806.0637541946,52983.8118224464,54417.2890524178
+Iceland,ISL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.81967347473986,4.54844225751086,..,..
+India,IND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.71,70.91,70.15,..
+India,IND,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1891.13794439121,1941.81508305731,1796.48873981565,1936.94270206376
+India,IND,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.7910328783681,1.77592267295201,..,..
+Indonesia,IDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.338,70.518,68.808,..
+Indonesia,IDN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3741.30527715913,3892.42167262992,3780.14120998019,3892.5389904925
+Indonesia,IDN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.16047032927399,2.2992559151159,..,..
+"Iran, Islamic Rep.",IRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.195,76.103,74.832,..
+"Iran, Islamic Rep.",IRN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,5211.11164308815,5017.11721737502,5141.08477874704,5344.9580270883
+"Iran, Islamic Rep.",IRN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.44508460397157,7.27795087587852,..,..
+Iraq,IRQ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.514,71.576,69.123,..
+Iraq,IRQ,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4710.97628188563,4854.38663347607,4204.17669758529,4224.25383488689
+Iraq,IRQ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.01939345457171,4.19983672120634,..,..
+Ireland,IRL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.2048780487805,82.7024390243903,82.2048780487805,..
+Ireland,IRL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,72339.4218486536,75239.3028933993,79074.5401350894,88966.6721604807
+Ireland,IRL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.73732378325387,7.24514322077522,..,..
+Isle of Man,IMN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.596,80.737,80.588,..
+Isle of Man,IMN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,96792.4241398358,96856.4389416175,..,..
+Isle of Man,IMN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Israel,ISR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.8024390243903,82.8048780487805,82.7,..
+Israel,ISR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,38744.1604404811,39591.3687578516,38176.7543372587,40805.1917574569
+Israel,ISR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.87621041012459,6.91959371834315,..,..
+Italy,ITA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.3463414634146,83.4975609756098,82.3439024390244,..
+Italy,ITA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,31593.4802621599,32114.2998563994,29353.8154433028,31505.9489224989
+Italy,ITA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.37687092998968,5.31131544170879,..,..
+Jamaica,JAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.793,71.767,71.869,..
+Jamaica,JAM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,5264.19609212041,5307.50998134429,4765.47436441152,4971.88995466932
+Jamaica,JAM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.06205721768071,2.98176162161011,..,..
+Japan,JPN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.2109756097561,84.3563414634146,84.6156097560976,..
+Japan,JPN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,36117.2276899342,36081.0653118215,34556.4399294744,35291.0138555083
+Japan,JPN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.80168143468674,8.54098020491546,..,..
+Jordan,JOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.774,76.044,75.184,..
+Jordan,JOR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3929.68714237256,3916.01694720161,3773.42178163461,3781.52828627257
+Jordan,JOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.36905549800552,2.30215243883444,..,..
+Kazakhstan,KAZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.15,73.18,71.37,..
+Kazakhstan,KAZ,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,11053.3620631343,11402.7601135125,10974.2462751277,11298.3576191288
+Kazakhstan,KAZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,11.8513158956408,11.4569378323984,..,..
+Kenya,KEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.676,62.943,62.675,..
+Kenya,KEN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1604.80216387121,1653.82819354564,1616.86813097824,1704.96657562005
+Kenya,KEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.350126986017145,0.43727903105104,..,..
+Kiribati,KIR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.855,67.15,67.266,..
+Kiribati,KIR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1455.72716554594,1424.79755536944,1392.10659563351,1386.55372006921
+Kiribati,KIR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.736130111615959,0.724398576768367,..,..
+"Korea, Dem. People's Rep.",PRK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.031,73.198,73.274,..
+"Korea, Dem. People's Rep.",PRK,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.97089106469024,2.17585095574668,..,..
+"Korea, Rep.",KOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.6268292682927,83.2268292682927,83.4268292682927,..
+"Korea, Rep.",KOR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,31053.6379289101,31640.2146297141,31372.4712614515,32730.6506278828
+"Korea, Rep.",KOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,12.2252458192145,11.7993253802233,..,..
+Kosovo,XKX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.696,79.022,76.567,..
+Kosovo,XKX,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4009.10642282596,4219.08069197588,3990.97027440455,4429.95814379497
+Kosovo,XKX,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Kuwait,KWT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.722,79.685,76.92,..
+Kuwait,KWT,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,26660.379734502,25773.4566962928,23925.6656033037,..
+Kuwait,KWT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,21.1688865289878,20.8619489599151,..,..
+Kyrgyz Republic,KGZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.4,71.6,71.8,..
+Kyrgyz Republic,KGZ,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1197.6107237282,1226.82446375586,1102.66436211075,1123.37284385643
+Kyrgyz Republic,KGZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.77927500474473,1.55664325620875,..,..
+Lao PDR,LAO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.634,68.138,68.497,..
+Lao PDR,LAO,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2467.95576150974,2564.0196538036,2539.12452453054,2566.27742235222
+Lao PDR,LAO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.72483944564601,2.59426810708029,..,..
+Latvia,LVA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.7829268292683,75.3878048780488,75.3878048780488,..
+Latvia,LVA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,15558.6917797211,16069.8404323203,15826.4126578529,16609.7227827866
+Latvia,LVA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.04218817909178,3.95543586167438,..,..
+Lebanon,LBN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.729,79.236,77.804,..
+Lebanon,LBN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,8441.19497452574,8066.01527008681,6473.10399449625,6095.56877950719
+Lebanon,LBN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.66992988980668,4.83404536996868,..,..
+Lesotho,LSO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,53.733,54.173,54.693,..
+Lesotho,LSO,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1078.15789785424,1074.6225006431,972.415623732283,973.704009216295
+Lesotho,LSO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.332117549169768,0.345958255384824,..,..
+Liberia,LBR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.853,61.104,60.948,..
+Liberia,LBR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,673.411391957645,644.162065213927,612.38424757045,629.820554654024
+Liberia,LBR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.231112626343778,0.23669639765075,..,..
+Libya,LBY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.794,72.463,72.472,..
+Libya,LBY,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,10595.3224636631,9278.33794257088,6968.04447120709,9043.5443059586
+Libya,LBY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.74063109640657,8.64655782310429,..,..
+Liechtenstein,LIE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.0414634146342,84.1609756097561,81.8073170731707,..
+Liechtenstein,LIE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+Liechtenstein,LIE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.66674525539001,3.89792645809636,..,..
+Lithuania,LTU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.6804878048781,76.2829268292683,74.9292682926829,..
+Lithuania,LTU,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,16443.5852875776,17249.7184431077,17241.3488235121,18233.7157800947
+Lithuania,LTU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.15842256161348,4.19807602212644,..,..
+Luxembourg,LUX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.2951219512195,82.6390243902439,81.7414634146342,..
+Luxembourg,LUX,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,106376.783565763,106729.024882424,104128.242111037,107792.189003826
+Luxembourg,LUX,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.3302075743469,15.3064265559542,..,..
+"Macao SAR, China",MAC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.928,84.978,85.184,..
+"Macao SAR, China",MAC,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,80477.2782902736,76958.8625966564,34561.7844726337,40601.0160424495
+"Macao SAR, China",MAC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Madagascar,MDG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.27,65.882,65.182,..
+Madagascar,MDG,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,470.423903552325,478.926966738444,433.83824486583,442.12160391194
+Madagascar,MDG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.12478329720885,0.149637883052437,..,..
+Malawi,MWI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.276,64.119,63.717,..
+Malawi,MWI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,386.060112194791,396.316837841203,388.978636142247,389.378818714496
+Malawi,MWI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.075131140329652,0.0768523956339848,..,..
+Malaysia,MYS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.644,75.76,75.938,..
+Malaysia,MYS,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,10777.748251085,11114.5419859856,10374.1870816224,10575.8735384331
+Malaysia,MYS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.54368836453478,7.72070021517061,..,..
+Maldives,MDV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.013,80.116,79.875,..
+Maldives,MDV,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,10342.9101362733,10753.1431705011,7013.57000027668,9807.57711547767
+Maldives,MDV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.28783175493319,4.18229224332584,..,..
+Mali,MLI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.393,59.664,58.633,..
+Mali,MLI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,767.571592925254,779.326622345063,745.885982262158,744.760424800156
+Mali,MLI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.274401425632929,0.283457953884067,..,..
+Malta,MLT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.4487804878049,82.8585365853659,82.6536585365854,..
+Malta,MLT,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,27864.2011519772,28375.2709332443,25444.3392976941,27891.1282698574
+Malta,MLT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.19831614286421,3.29324560594014,..,..
+Marshall Islands,MHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Marshall Islands,MHL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4373.87636173868,4984.64720085852,5041.05682629627,5262.47562425684
+Marshall Islands,MHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.91397958539122,4.024324967639,..,..
+Mauritania,MRT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.31,65.687,64.532,..
+Mauritania,MRT,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1628.03720022383,1670.02712488425,1612.15270266623,1609.93006252163
+Mauritania,MRT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.864024560124977,0.901034695237842,..,..
+Mauritius,MUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.4163414634146,74.2358536585366,74.1770731707317,..
+Mauritius,MUS,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,10654.7904725398,10959.3361409219,9359.34373757082,9703.52422200224
+Mauritius,MUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.26404040331914,3.29459100560393,..,..
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.015,74.202,70.133,..
+Mexico,MEX,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,10120.3635433028,10013.7031924835,9147.05350478398,9525.40968420662
+Mexico,MEX,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.6493501909776,3.59170861408077,..,..
+"Micronesia, Fed. Sts.",FSM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.318,71.077,70.674,..
+"Micronesia, Fed. Sts.",FSM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2962.23858125628,2984.93012390233,2913.21837338295,2794.78641596039
+"Micronesia, Fed. Sts.",FSM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.53251180293827,1.61610363850059,..,..
+Moldova,MDA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.492,70.935,70.166,..
+Moldova,MDA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3261.7493401398,3436.4491041805,3217.97399064244,3694.6520300684
+Moldova,MDA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.15454731760161,3.32554607145542,..,..
+Monaco,MCO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Monaco,MCO,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,178867.536655884,191193.713657546,166909.968266647,204190.16311504
+Monaco,MCO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Mongolia,MNG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.199,71.822,72.141,..
+Mongolia,MNG,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4242.3001505544,4385.11160331345,4106.60261468469,4107.18365216149
+Mongolia,MNG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.81101786859081,7.13704541005504,..,..
+Montenegro,MNE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.8414634146342,76.6829268292683,75.9317073170732,..
+Montenegro,MNE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,7381.77487961644,7684.1498693025,6515.50788943096,7350.454744949
+Montenegro,MNE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.01782629169097,4.17987599373753,..,..
+Morocco,MAR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.986,74.27,73.92,..
+Morocco,MAR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3296.21044921875,3355.62963867188,3081.3828125,3290.62036132813
+Morocco,MAR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.80808514913468,1.96890700867326,..,..
+Mozambique,MOZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.526,61.166,61.172,..
+Mozambique,MOZ,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,604.007174458011,600.403941051414,576.017851178953,573.112663333857
+Mozambique,MOZ,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.236202712955279,0.247642484818277,..,..
+Myanmar,MMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.465,66.61,66.797,..
+Myanmar,MMR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1488.53051913825,1577.80271146309,1616.20849776001,1317.45301357919
+Myanmar,MMR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.625450762738737,0.692304948191065,..,..
+Namibia,NAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.586,63.075,62.829,..
+Namibia,NAM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4714.46020396689,4596.62707017602,4155.13271775572,4196.28530383011
+Namibia,NAM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.75833860657839,1.72481153375467,..,..
+Nauru,NRU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Nauru,NRU,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,7515.93478852809,7387.07603185039,7360.95180143829,7354.31806060532
+Nauru,NRU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.03186838803216,4.94559830686577,..,..
+Nepal,NPL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.979,69.558,69.246,..
+Nepal,NPL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1006.60666420222,1061.48601942862,1018.10766517934,1037.09212156798
+Nepal,NPL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.532856948931301,0.466487528837777,..,..
+Netherlands,NLD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.8121951219512,82.1121951219512,81.409756097561,..
+Netherlands,NLD,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,47826.8191172843,48443.7320540283,46303.21886247,48301.528960019
+Netherlands,NLD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.78385000800575,8.43707462722941,..,..
+New Caledonia,NCL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.0030975609756,80.4197073170732,80.8349512195122,..
+New Caledonia,NCL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+New Caledonia,NCL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+New Zealand,NZL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.8585365853659,81.7073170731707,82.0560975609756,..
+New Zealand,NZL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,40365.1957031236,40599.0315482907,39216.2248628459,40415.4680058037
+New Zealand,NZL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.60327319315015,6.83041418732592,..,..
+Nicaragua,NIC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.85,74.054,71.795,..
+Nicaragua,NIC,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2052.13338335777,1947.40761487163,1886.51311080129,2052.90085974992
+Nicaragua,NIC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.77751353817103,0.786323459138814,..,..
+Niger,NER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.454,62.897,61.451,..
+Niger,NER,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,510.573129261318,520.919398398195,519.678793484687,507.711129922835
+Niger,NER,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0863708658445985,0.0917102782590997,..,..
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,52.554,52.91,52.887,..
+Nigeria,NGA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2512.0809827586,2505.46274518312,2401.18390022989,2429.58578108445
+Nigeria,NGA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.553915600821771,0.567031242867457,..,..
+North Macedonia,MKD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.6487804878049,76.6024390243903,75.6931707317073,..
+North Macedonia,MKD,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,5184.69447115249,5386.20032539651,5067.21360634667,5287.06837886027
+North Macedonia,MKD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.51601021990228,3.99673721344351,..,..
+Northern Mariana Islands,MNP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Northern Mariana Islands,MNP,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,23220.9981494333,20818.1538599927,..,..
+Northern Mariana Islands,MNP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Norway,NOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.7585365853659,82.9585365853659,83.209756097561,..
+Norway,NOR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,75953.5819514803,76005.224786526,75017.1567472977,77512.89678936
+Norway,NOR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.07654265477615,6.7222699848575,..,..
+Oman,OMN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.966,78.002,74.757,..
+Oman,OMN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,18256.6531453301,18044.2704535008,17662.242841682,18300.7619953758
+Oman,OMN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,16.4306496114175,16.5183208841499,..,..
+Pakistan,PAK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.482,66.756,66.269,..
+Pakistan,PAK,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1440.42539473925,1452.85157330085,1409.69760074979,1473.8648995053
+Pakistan,PAK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.852449537094291,0.853451601070211,..,..
+Palau,PLW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Palau,PLW,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,15062.9567623759,15078.7089537793,13662.754094839,11806.8916100821
+Palau,PLW,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,13.9946260635916,13.9540075909801,..,..
+Panama,PAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.863,77.81,76.657,..
+Panama,PAN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,14922.1299997158,15122.517274072,12230.0395894753,13921.2627427274
+Panama,PAN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.41521837669403,3.15177774263441,..,..
+Papua New Guinea,PNG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.182,65.474,65.787,..
+Papua New Guinea,PNG,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2536.09418094851,2590.50515304414,2455.15598423553,2413.07097588663
+Papua New Guinea,PNG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.810356521797523,0.794342262981161,..,..
+Paraguay,PRY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.568,73.621,73.182,..
+Paraguay,PRY,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6338.51367820775,6229.22489536642,6095.39137530699,6264.89473641197
+Paraguay,PRY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.31453811865992,1.25726911931851,..,..
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.009,76.156,73.665,..
+Peru,PER,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6530.50297708457,6550.52823999169,5749.01873201867,6437.10202262345
+Peru,PER,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.69513399205352,1.72887251525604,..,..
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.689,71.865,72.119,..
+Philippines,PHL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3439.10354644511,3589.61679192751,3195.54169165164,3327.68081556031
+Philippines,PHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.27633317653161,1.31743920046954,..,..
+Poland,POL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.6024390243903,77.9048780487805,76.6,..
+Poland,POL,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,14408.384388723,15053.2323676784,14774.989199307,15850.2855122104
+Poland,POL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.21361572260802,7.77364183861292,..,..
+Portugal,PRT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.3243902439024,81.6756097560976,80.9756097560976,..
+Portugal,PRT,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,21057.6174784232,21617.411624379,19802.2290212165,20831.0870139963
+Portugal,PRT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.81338552923222,4.33976842606964,..,..
+Puerto Rico,PRI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.77,79.063,78.041,..
+Puerto Rico,PRI,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,29687.2064763276,30181.2724849071,28094.5983667684,28307.7535935621
+Puerto Rico,PRI,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Qatar,QAT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.898,80.99,79.099,..
+Qatar,QAT,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,60080.696551117,59672.6415484228,58476.1994291413,61000.8325576267
+Qatar,QAT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,31.2354063093011,32.7617749211246,..,..
+Romania,ROU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.3585365853659,75.6073170731707,74.3536585365854,..
+Romania,ROU,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,10778.3595556176,11252.7929110931,10898.8316332686,11541.7769263214
+Romania,ROU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.86105156993701,3.81743447683141,..,..
+Russian Federation,RUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.6621951219512,73.0839024390244,71.3387804878049,..
+Russian Federation,RUS,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,9739.900390625,9958.4609375,9713.3681640625,10216.251953125
+Russian Federation,RUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,11.4965712497165,11.7972029330523,..,..
+Rwanda,RWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.251,66.437,66.774,..
+Rwanda,RWA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,815.234930662625,871.279521356256,822.073813542986,890.187201065363
+Rwanda,RWA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.102938056651764,0.10362268340321,..,..
+Samoa,WSM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.636,72.157,72.768,..
+Samoa,WSM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4277.39142169562,4421.34561483944,4223.63695740135,3855.61357541312
+Samoa,WSM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.38292135781589,1.4157288026282,..,..
+San Marino,SMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+San Marino,SMR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,43277.3296749396,44142.8704677228,41415.5026131761,..
+San Marino,SMR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Sao Tome and Principe,STP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.355,68.523,67.785,..
+Sao Tome and Principe,STP,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1665.39571641412,1676.39631287316,1695.17128277048,1692.43530980748
+Sao Tome and Principe,STP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.662427135835633,0.698978121801425,..,..
+Saudi Arabia,SAU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.212,77.304,76.239,..
+Saudi Arabia,SAU,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,19329.0706279164,18955.5463509722,18085.5415738719,18695.941727851
+Saudi Arabia,SAU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,14.8854312069014,14.6195533262224,..,..
+Senegal,SEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.097,68.526,68.006,..
+Senegal,SEN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1384.64206999598,1409.97081603748,1390.81952495616,1436.65361378016
+Senegal,SEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.653615395452763,0.663717595132331,..,..
+Serbia,SRB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.890243902439,75.9365853658537,74.2292682926829,..
+Serbia,SRB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6261.52713908381,6567.90956383791,6552.0858960946,7113.57687910123
+Serbia,SRB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.60641804520422,6.61604693907974,..,..
+Seychelles,SYC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.8414634146341,74.0463414634146,77.2365853658537,..
+Seychelles,SYC,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,16628.1304254762,16992.0323979001,15551.5577973275,16639.6821857226
+Seychelles,SYC,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.99408841601764,6.24839963436737,..,..
+Sierra Leone,SLE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.796,60.255,59.763,..
+Sierra Leone,SLE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,613.549461680858,630.896017541675,604.417302213392,615.277952955416
+Sierra Leone,SLE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.109396930895247,0.111845310494787,..,..
+Singapore,SGP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.2975609756098,83.5951219512195,83.7439024390244,..
+Singapore,SGP,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,61373.6484785038,61340.1661723862,58982.4609149611,66176.3870010699
+Singapore,SGP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.40622896684947,8.30707949147546,..,..
+Sint Maarten (Dutch part),SXM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+Sint Maarten (Dutch part),SXM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,27093.797137995,..,..,..
+Sint Maarten (Dutch part),SXM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Slovak Republic,SVK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.2658536585366,77.6658536585366,76.8658536585366,..
+Slovak Republic,SVK,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,17818.2341072167,18242.4950003779,17611.7568566409,18181.1969542578
+Slovak Republic,SVK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.05863547411852,5.69841625532024,..,..
+Slovenia,SVN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.3780487804878,81.5292682926829,80.5317073170732,..
+Slovenia,SVN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,23483.529124564,24125.3920363107,22928.7627401934,24744.841297261
+Slovenia,SVN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.78433887885504,6.51220937780615,..,..
+Solomon Islands,SLB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.173,70.382,70.199,..
+Solomon Islands,SLB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2217.81419640139,2203.98033155881,2079.53741627946,2026.48245906934
+Solomon Islands,SLB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.546075935352371,0.533338885447871,..,..
+Somalia,SOM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,56.375,57.078,55.967,..
+Somalia,SOM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,413.503861987947,428.483115760689,424.392316823319,427.8996711934
+Somalia,SOM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.0428262929436446,0.0431754611712322,..,..
+South Africa,ZAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.674,66.175,65.252,..
+South Africa,ZAF,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6250.99754451043,6189.28924467793,5726.2627750226,5947.88719855492
+South Africa,ZAF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.57503960573722,7.5686401152277,..,..
+South Sudan,SSD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,55.95,55.912,55.48,..
+South Sudan,SSD,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+South Sudan,SSD,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.14910542536136,0.162715772851441,..,..
+Spain,ESP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.4317073170732,83.8317073170732,82.3341463414634,..
+Spain,ESP,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,27739.8647682529,28087.8979203438,24785.446714692,26125.8716662745
+Spain,ESP,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.49257147137707,5.09135092007508,..,..
+Sri Lanka,LKA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.748,76.008,76.393,..
+Sri Lanka,LKA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4495.71089310179,4458.43485391502,4280.84906667802,4375.9477077248
+Sri Lanka,LKA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.00092295957811,1.09067562659476,..,..
+St. Kitts and Nevis,KNA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..
+St. Kitts and Nevis,KNA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,21254.6557957777,22137.6454319838,18948.3865021181,18795.9150699081
+St. Kitts and Nevis,KNA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.23439626473483,5.23977196512408,..,..
+St. Lucia,LCA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.357,73.445,73.416,..
+St. Lucia,LCA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,11211.596237978,11095.3541798074,8361.39265116311,9362.35437011581
+St. Lucia,LCA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.9794026094496,3.02380417765225,..,..
+St. Martin (French part),MAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.614,79.983,80.149,..
+St. Martin (French part),MAF,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+St. Martin (French part),MAF,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+St. Vincent and the Grenadines,VCT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.128,72.835,72.126,..
+St. Vincent and the Grenadines,VCT,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,8152.37803656695,8213.164718654,7798.53138614868,7926.70381999198
+St. Vincent and the Grenadines,VCT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.37459750572278,2.47798397376441,..,..
+Sudan,SDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.681,65.876,65.614,..
+Sudan,SDN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2051.990234375,1950.04223632813,1828.16003417969,1746.1923828125
+Sudan,SDN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.496677809146905,0.476960503374967,..,..
+Suriname,SUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.553,72.242,72.561,..
+Suriname,SUR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,8750.91906668785,8756.06972901955,7275.29469573411,7008.36246126239
+Suriname,SUR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.72232474865376,4.41445224207094,..,..
+Sweden,SWE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.5585365853659,83.109756097561,82.4073170731707,..
+Sweden,SWE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,52983.0068617482,53490.3518198746,51952.6731328342,54262.4390838963
+Sweden,SWE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.53899174224082,3.4050379189887,..,..
+Switzerland,CHE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.7536585365854,83.9048780487805,83.1,..
+Switzerland,CHE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,86756.6021294513,87123.6604363226,84434.7784901292,87339.7597519546
+Switzerland,CHE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.4019909898051,4.35904146198319,..,..
+Syrian Arab Republic,SYR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.145,71.822,72.14,..
+Syrian Arab Republic,SYR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,802.505062685495,781.391217414265,726.738798208621,..
+Syrian Arab Republic,SYR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.41671460460283,1.27921574292573,..,..
+Tajikistan,TJK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.353,70.867,67.994,..
+Tajikistan,TJK,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1116.27979627083,1172.07228695548,1197.20426969679,1279.61266668702
+Tajikistan,TJK,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.950906527773238,1.00888904890509,..,..
+Tanzania,TZA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.535,66.989,66.408,..
+Tanzania,TZA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1011.08264160156,1037.94030761719,1027.28588867188,1039.56457519531
+Tanzania,TZA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.206574427397636,0.207941598929037,..,..
+Thailand,THA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.662,78.975,79.274,..
+Thailand,THA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,6336.24282262982,6456.24199159638,6042.01970122734,6123.9468903435
+Thailand,THA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.61391721050187,3.74559494087468,..,..
+Timor-Leste,TLS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.017,68.268,68.475,..
+Timor-Leste,TLS,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1257.64680737461,1530.81109245341,1988.98251997525,2061.01889115191
+Timor-Leste,TLS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.483419131751614,0.484209313350878,..,..
+Togo,TGO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.244,60.901,61.035,..
+Togo,TGO,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,600.785119470887,618.490502735404,614.461360795385,631.653891551939
+Togo,TGO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.287074946419453,0.287513388244642,..,..
+Tonga,TON,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.779,70.871,70.928,..
+Tonga,TON,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4587.31319232051,4628.48136062338,4637.7088672375,4481.51064056268
+Tonga,TON,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.52163572442911,1.52452093285172,..,..
+Trinidad and Tobago,TTO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.802,74.228,74.406,..
+Trinidad and Tobago,TTO,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,15716.9074857674,15576.4345950337,14397.5503781367,14179.5539990361
+Trinidad and Tobago,TTO,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,11.816238679137,11.3095456997461,..,..
+Tunisia,TUN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.95,75.993,75.292,..
+Tunisia,TUN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,4069.11352412974,4090.43340194668,3703.24374360361,3831.43732713238
+Tunisia,TUN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.50480991305137,2.48229897962756,..,..
+Turkiye,TUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.563,77.832,75.85,..
+Turkiye,TUR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,11938.7828744092,11935.4252883628,12072.4372855693,13341.5981737484
+Turkiye,TUR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.97202598135987,4.75361752810222,..,..
+Turkmenistan,TKM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.796,69.002,68.687,..
+Turkmenistan,TKM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,7089.94180488049,7422.36251776805,..,..
+Turkmenistan,TKM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,12.0443871594733,11.8325808805801,..,..
+Turks and Caicos Islands,TCA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.443,75.326,75.001,..
+Turks and Caicos Islands,TCA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,25080.1644890531,25438.7832890572,18122.4250199858,18159.2993269486
+Turks and Caicos Islands,TCA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+Tuvalu,TUV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.212,64.278,64.382,..
+Tuvalu,TUV,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3707.72734455159,4184.09405884431,4204.12811658383,4277.45567208165
+Tuvalu,TUV,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.920386541783947,0.912741856195927,..,..
+Uganda,UGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.714,62.991,62.851,..
+Uganda,UGA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,896.16253506792,922.023177303942,918.120101085079,920.547617719657
+Uganda,UGA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.141152460033547,0.136440643979205,..,..
+Ukraine,UKR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.5826829268293,71.8273170731707,71.1851219512195,..
+Ukraine,UKR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2336.97631835938,2425.63452148438,2350.39990234375,2451.90087890625
+Ukraine,UKR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.15978307448244,3.93658353086744,..,..
+United Arab Emirates,ARE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.627,79.726,78.946,..
+United Arab Emirates,ARE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,43644.1470438183,43785.4172694435,41276.0555102387,42535.9660450383
+United Arab Emirates,ARE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,19.3781969586326,20.5022832059804,..,..
+United Kingdom,GBR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.2560975609756,81.2048780487805,80.9024390243903,..
+United Kingdom,GBR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,47006.1429267683,47491.5945630059,42098.7497835684,45101.536026388
+United Kingdom,GBR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.42774817696291,5.22051448799294,..,..
+United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.6390243902439,78.7878048780488,77.2804878048781,..
+United States,USA,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,59607.3936602496,60698.0112990179,58453.446127536,61855.5186299157
+United States,USA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.2225476514566,14.6734106066885,..,..
+Uruguay,URY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.611,77.508,78.43,..
+Uruguay,URY,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,16142.0486948682,16192.1592149791,15197.9589235994,15874.737994987
+Uruguay,URY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.90835127257064,1.89300628108203,..,..
+Uzbekistan,UZB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.149,71.344,70.331,..
+Uzbekistan,UZB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3047.30838365675,3161.4153813888,3159.72604728073,3327.78026301491
+Uzbekistan,UZB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.41272180933736,3.47554445038462,..,..
+Vanuatu,VUT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.795,69.877,70.299,..
+Vanuatu,VUT,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,2815.58629128556,2838.98740990445,2623.04808347471,2573.30771575617
+Vanuatu,VUT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.706361944727139,0.689872647677064,..,..
+"Venezuela, RB",VEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.979,72.161,71.095,..
+"Venezuela, RB",VEN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,..,..,..,..
+"Venezuela, RB",VEN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.43007919668391,3.87757923272497,..,..
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.976,74.093,75.378,..
+Vietnam,VNM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3090.77224054251,3288.35307286665,3352.06015678922,3409.0247166398
+Vietnam,VNM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.00902936472834,3.51327550460568,..,..
+Virgin Islands (U.S.),VIR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.5195121951219,79.6682926829268,79.819512195122,..
+Virgin Islands (U.S.),VIR,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,35183.2357524821,36273.0950999508,35620.8719163345,..
+Virgin Islands (U.S.),VIR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+West Bank and Gaza,PSE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.793,75.241,74.403,..
+West Bank and Gaza,PSE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3417.79440837962,3378.4346209191,2922.46801084844,3052.58301814697
+West Bank and Gaza,PSE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..
+"Yemen, Rep.",YEM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.575,65.092,64.65,..
+"Yemen, Rep.",YEM,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1194.82073154654,..,..,..
+"Yemen, Rep.",YEM,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.315681660355214,0.351859419470324,..,..
+Zambia,ZMB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.342,62.793,62.38,..
+Zambia,ZMB,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1331.44924435525,1310.62222427718,1237.28330318262,1257.93475705756
+Zambia,ZMB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.4333957385298,0.369957765009845,..,..
+Zimbabwe,ZWE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.414,61.292,61.124,..
+Zimbabwe,ZWE,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,1462.59027964238,1342.98958704508,1213.11705786762,1289.19906757836
+Zimbabwe,ZWE,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.822472015651742,0.765893875563726,..,..
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Data from database: World Development Indicators,,,,,,,
+Last Updated: 12/22/2022,,,,,,,
