@@ -80,6 +80,8 @@ ipums <- ipums |>
 ipums <- ipums |>
    select(statefip, agemarr, gender, education)
 
+save(ipums, file="output/ipums.RData")
+
 
 # Aggregate data ----------------------------------------------------------
 
